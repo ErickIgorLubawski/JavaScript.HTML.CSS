@@ -1,0 +1,23 @@
+body{
+    background: rgb(3, 3, 46);
+    font: normal 15pt Arial;
+}
+header{
+
+}
+section{
+    background: rgb(183, 178, 187);
+    border-radius: 15px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgb(44, 41, 41);
+}
+select#flista{
+    width: 150px;
+}
+footer{
+    color: azure;
+    text-align: center;
+    font-style: italic;
+}
